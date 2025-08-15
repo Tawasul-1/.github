@@ -41,7 +41,10 @@ Our mission is to **bridge the communication gap** for children with speech diff
 ---
 ## 🎥 Project Demo Video
 
-[🔗 Watch the video here](https://github.com/user-attachments/assets/bf3e3de5-1557-4f6a-9e7f-47552995ebf1)
+
+
+https://github.com/user-attachments/assets/10223d52-2a6a-4186-b777-caa19075b0f7
+
 
 
 
