@@ -39,5 +39,11 @@ Our mission is to **bridge the communication gap** for children with speech diff
 - 📊 ** Dashboard** → [GitHub Link](https://github.com/Tawasul-1/DashBoard)
 
 ---
+# 👋 Run video 
+
+https://github.com/user-attachments/assets/bf3e3de5-1557-4f6a-9e7f-47552995ebf1
+
+
+
 
 *Because every child deserves a voice.* 💙
